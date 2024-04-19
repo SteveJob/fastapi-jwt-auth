@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
 module = "fastapi_jwt_auth_md"
-dist-name = "fastapi-jwt-auth_md"
+dist-name = "fastapi-jwt-auth-md"
 author = "Nyoman Pradipta Dewantara"
 author-email = "nyomanpradipta120@gmail.com"
 home-page = "https://github.com/IndominusByte/fastapi-jwt-auth"

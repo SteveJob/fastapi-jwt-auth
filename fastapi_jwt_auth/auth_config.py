@@ -1,5 +1,5 @@
 from fastapi_jwt_auth.config import LoadConfig
-from pydantic import ValidationError
+from pydantic.v1 import ValidationError
 from typing import Callable, List
 from datetime import timedelta
 

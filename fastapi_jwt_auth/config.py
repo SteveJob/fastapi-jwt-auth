@@ -1,6 +1,6 @@
 from datetime import timedelta
 from typing import Optional, Union, Sequence, List
-from pydantic import (
+from pydantic.v1 import (
     BaseModel,
     validator,
     StrictBool,
